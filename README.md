@@ -1,2 +1,5 @@
-# dio-projetologico-ecommerce
-Projeto Lógico Ecommerce - DIO
+# DIO - Database Experience
+
+Projeto Lógico Banco de Dados Ecommerce.
+
+Bootcamp Data Innovation One.
